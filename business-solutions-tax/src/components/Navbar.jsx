@@ -15,6 +15,7 @@ const Navbar = () => {
     <Box w='50%' h='10' bg='red'><Text>Hello</Text></Box>
     <Spacer />
     <Box w='20%' h='10' bg='red'><Text>Hello</Text></Box>
+    <Box w='20%' h='10' bg='red'><Text>Hello</Text></Box>
   </Flex>
 </Box>
   
